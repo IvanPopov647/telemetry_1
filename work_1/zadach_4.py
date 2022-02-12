@@ -6,4 +6,4 @@ while number > 0:
         max_number = number % 10
     number = number // 10
 
-print('Самое большая цифра в числе: ', max_number)
+print('Самая большая цифра в числе: ', max_number)
