@@ -1,0 +1,10 @@
+Student 1:4
+Student 2:1
+Student 3:7
+Student 4:9
+Student 5:5
+Student 6:0
+Student 7:4
+Student 8:1
+Student 9:10
+Student 10:11
