@@ -1,0 +1,5 @@
+informatika: 70(L) 40(PR) 15(Lab)
+fizika: 30(L) 10(Lab)
+FK: 30(PR)
+maths: 40(L) 40 (PR)
+chemistry: 30(L) 30 (PR)
